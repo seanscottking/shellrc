@@ -1,0 +1,3 @@
+HISTSIZE=9999999
+HISTCONTROL=ignoreboth
+
